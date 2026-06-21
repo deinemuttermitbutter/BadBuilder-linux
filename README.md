@@ -8,8 +8,8 @@ modding xbox360 and i hate windows.
 ```unzip badbuilder-linux.zip && cd badbuilder-linux
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
-python3 main.py```
-
+python3 main.py
+```
 
 props to Pdawg-bytes
 https://github.com/Pdawg-bytes/BadBuilder
